@@ -1,5 +1,12 @@
+@import url(https://db.onlinewebfonts.com/c/a944a4a34682afada21d42c79d15deea?family=Paris2024);
+@import url(https://db.onlinewebfonts.com/c/a81c6ef023e90fb9f87ac017d242a337?family=Montserrat);
+@import url(https://db.onlinewebfonts.com/c/029177df870cce2b384f0610a6e1f82a?family=Montserrat+Light);
+@import url(https://db.onlinewebfonts.com/c/b84eb26a3af45db5af2689f71b93b580?family=Paris2024+Semibold);
+@import url(https://db.onlinewebfonts.com/c/d3085f686df272f9e1a267cc69b2d24f?family=Montserrat-Bold);
+
 body {
   margin: 0;
+  border-top: 4px solid #d7c378;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

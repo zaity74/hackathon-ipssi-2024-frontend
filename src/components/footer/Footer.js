@@ -17,7 +17,7 @@ function Footer(props) {
         <>
             <section id="footer">
                 <div className='pinkLine'></div>
-                <div className='container'>
+                <div className='containerFooter'>
                     <div className='copyright'>
                         <p className='descriptionFooter'>Olympique visualization & predictions 2024I   </p>
                         <p className='description1'>@copyright MIA 13 IPSSI</p>
